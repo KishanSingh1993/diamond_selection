@@ -35,3 +35,8 @@ A Flutter application for browsing, filtering, and managing a diamond inventory 
 - Sort results by price or carat (ascending/descending).
 - Add/remove diamonds to/from a persistent cart.
 - View cart summary with total carat, total price, average price, and average discount.
+
+## Screenshots
+<img src="/ss/1.png" height="400px"/> <img src="/ss/2.png" height="400px"/>
+<img src="/ss/3.png" height="400px"/> <img src="/ss/4.png" height="400px"/>
+<img src="/ss/5.png" height="400px"/> <img src="/ss/6.png" height="400px"/>
